@@ -1,10 +1,10 @@
 a {
-  color: #f8204b; }
+  color: #0077C4; }
   a:hover {
     color: rgba(248, 32, 75, 0.8); }
 
 .page-header-alpha .navbar-mainmenu .nav-item a:hover {
-  color: #f8204b; }
+  color: #0077C4; }
 
 .btn-white {
   color: #ffffff;
@@ -15,7 +15,7 @@ a {
     color: #ffffff; }
 
 .btn-outline-primary {
-  color: #f8204b;
+  color: #0077C4;
   border-color: currentColor; }
 
 .btn-outline-primary:hover,
@@ -46,8 +46,8 @@ a {
 
 .page-cover:after {
   content: "";
-  background: -webkit-gradient(linear, right top, left top, from(#D1335B), to(#00152e));
-  background: linear-gradient(to left, #D1335B, #00152e);
+  background: -webkit-gradient(linear, right top, left top, from(#0077C4), to(#000000));
+  background: linear-gradient(to left,#0077C4 , #000000);
   position: absolute;
   left: 0;
   right: 0;
